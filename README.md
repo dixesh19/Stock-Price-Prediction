@@ -70,7 +70,7 @@ for epoch in range(epochs):
 ```
 
 ## Output
-<img width="1167" height="780" alt="I1" src="https://github.com/user-attachments/assets/90be56ee-dfae-4619-ac42-6fe99044f661" />
+![alt text](i1.png)
 <img width="1040" height="633" alt="I2" src="https://github.com/user-attachments/assets/5ec0f21a-e920-48f4-a47c-a32a0c898898" />
 
 
