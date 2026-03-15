@@ -71,7 +71,7 @@ for epoch in range(epochs):
 
 ## Output
 ![alt text](i1.png)
-<img width="1040" height="633" alt="I2" src="https://github.com/user-attachments/assets/5ec0f21a-e920-48f4-a47c-a32a0c898898" />
+![alt text](i2.png)
 
 
 ## Result
